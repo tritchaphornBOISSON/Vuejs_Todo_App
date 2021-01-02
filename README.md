@@ -1,4 +1,11 @@
-# postitproject
+# Todo App
+
+
+A simple Todo application where you can add/delete your todo list and also mark them if they are completed.
+(followed tutorial)
+
+
+![GitHub Logo](/todo.png)
 
 ## Project setup
 ```
